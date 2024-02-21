@@ -1,4 +1,4 @@
-# API Automation menggunakan Supertest, Mocha, Chai dan Mochawesome
+# API Automation Test menggunakan Supertest, Mocha, Chai dan Mochawesome
 Repository ini adalah merupakan automation testing menggunakan Supertest untuk request library, Mocha sebagai framework testing, Chai sebagai framework assertion, dan Mochawesome untuk reporting. 
 
 
