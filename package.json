@@ -5,7 +5,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:suites": "npx mocha --reporter mochawesome test/suites",
+    "test:category": "npx mocha --reporter mochawesome test/suites/category.js",
+    "test:customer": "npx mocha --reporter mochawesome test/suites/customer.js",
+    "test:product": "npx mocha --reporter mochawesome test/suites/product.js",
+    "test:user": "npx mocha --reporter mochawesome test/suites/user.js"
   },
   "author": "",
   "license": "ISC",
