@@ -1,6 +1,7 @@
 # API Automation Test menggunakan Supertest, Mocha, Chai dan Mochawesome
 Repository ini adalah merupakan automation testing menggunakan Supertest untuk request library, Mocha sebagai framework testing, Chai sebagai framework assertion, dan Mochawesome untuk reporting. 
 
+https://github.com/purnamamoon/sanbercode-api-automation/assets/45748726/d5f3fb0c-2da3-4058-8ced-b5edbee5db1e
 
 ## Installation
 
